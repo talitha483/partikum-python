@@ -172,6 +172,5 @@ plt.show()
 3. Menurut kamu, apakah AI membantu dalam analisis sebuah data?
  Ya, AI sangat membantu karena bisa mengolah data besar dengan cepat, menganalisis pola, dan menghasilkan prediksi yang akurat.
 
- Disusun oleh:
-Kelas Talitha Alya Aurely XI RPL
+ Disusun oleh: Talitha Alya Aurely XI RPL
 Mata Pelajaran Koding Kecerdasan Artifisial
